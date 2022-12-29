@@ -1,0 +1,15 @@
+E:\Учеба\HomeWork\HomeWork\Dz006\bin\Debug\net6.0\Dz006.exe
+E:\Учеба\HomeWork\HomeWork\Dz006\bin\Debug\net6.0\Dz006.deps.json
+E:\Учеба\HomeWork\HomeWork\Dz006\bin\Debug\net6.0\Dz006.runtimeconfig.json
+E:\Учеба\HomeWork\HomeWork\Dz006\bin\Debug\net6.0\Dz006.dll
+E:\Учеба\HomeWork\HomeWork\Dz006\bin\Debug\net6.0\Dz006.pdb
+E:\Учеба\HomeWork\HomeWork\Dz006\obj\Debug\net6.0\Dz006.csproj.AssemblyReference.cache
+E:\Учеба\HomeWork\HomeWork\Dz006\obj\Debug\net6.0\Dz006.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\HomeWork\HomeWork\Dz006\obj\Debug\net6.0\Dz006.AssemblyInfoInputs.cache
+E:\Учеба\HomeWork\HomeWork\Dz006\obj\Debug\net6.0\Dz006.AssemblyInfo.cs
+E:\Учеба\HomeWork\HomeWork\Dz006\obj\Debug\net6.0\Dz006.csproj.CoreCompileInputs.cache
+E:\Учеба\HomeWork\HomeWork\Dz006\obj\Debug\net6.0\Dz006.dll
+E:\Учеба\HomeWork\HomeWork\Dz006\obj\Debug\net6.0\refint\Dz006.dll
+E:\Учеба\HomeWork\HomeWork\Dz006\obj\Debug\net6.0\Dz006.pdb
+E:\Учеба\HomeWork\HomeWork\Dz006\obj\Debug\net6.0\Dz006.genruntimeconfig.cache
+E:\Учеба\HomeWork\HomeWork\Dz006\obj\Debug\net6.0\ref\Dz006.dll
